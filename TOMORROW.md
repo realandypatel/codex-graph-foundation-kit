@@ -1,16 +1,12 @@
-# TOMORROW.md
+# Tomorrow
 
-## CRITICAL
-- 
+Use this file for actual next actions only.
 
-## NEXT
-- 
+Suggested sections:
+- CRITICAL
+- NEXT
+- LATER
+- BLOCKED
+- DONE TODAY
 
-## LATER
-- 
-
-## BLOCKED
-- 
-
-## DONE TODAY / RECENTLY COMPLETED
-- 
+Avoid putting generic workflow instructions here.

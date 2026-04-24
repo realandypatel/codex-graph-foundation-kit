@@ -1,10 +1,9 @@
-# WORKLOG.md
+# Worklog
 
-## Session log
+Use this file for chronological session notes:
+- what changed
+- what decisions were made
+- what was verified
+- what remains open
 
-### YYYY-MM-DD
-- What was worked on:
-- What changed:
-- What was verified:
-- What is still open:
-- Decisions made:
+Avoid repeating stable project facts here.
