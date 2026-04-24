@@ -216,3 +216,7 @@ It is less useful on:
 
 ```bash
 bash scripts/bootstrap.sh
+
+## License
+
+This project is licensed under the MIT License.
