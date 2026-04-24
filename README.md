@@ -14,6 +14,28 @@ This kit is designed to help teams and solo developers:
 > It is built to help you set up and operate a graph-based workflow in your own repositories.
 
 ---
+## Who this is for
+
+This kit is for solo builders, startups, consultants, and teams who want to use Codex in a more structured, graph-first way without wasting tokens on broad file reads.
+
+It is especially useful for:
+- multi-file projects
+- ongoing product development
+- refactors and reviews
+- teams that want fresh-chat continuity
+- repos that need durable operating rules and memory files
+
+## What this is / What this is not
+
+**This is:**
+- a GitHub-ready foundation kit
+- a starter structure for graph-first Codex workflows
+- a repo template with prompts, memory files, scripts, and setup guidance
+
+**This is not:**
+- the graph engine itself
+- a replacement for the upstream `code-review-graph` project
+- a guarantee of the same token reduction on every repo or task
 
 ## What this kit gives you
 
@@ -185,6 +207,15 @@ It is less useful on:
 - very small repos where raw file reads are already cheap
 
 ---
+## Fastest way to use this
+
+1. Clone this repo or use it as a template.
+2. Copy the structure into your real project repo.
+3. Review `docs/INSTALL.md`
+4. Run:
+
+```bash
+bash scripts/bootstrap.sh
 
 ## License
 
