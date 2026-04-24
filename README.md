@@ -58,8 +58,8 @@ Upstream project:
 
 ### 1) Clone or copy this kit
 ```bash
-git clone <your-repo-url>
-cd solid-codex-graph-kit
+git clone https://github.com/realandypatel/codex-graph-foundation-kit.git
+cd codex-graph-foundation-kit
 ```
 
 ### 2) Review the docs
